@@ -1,4 +1,4 @@
-CS:GO level and instructions
+CS:GO level files and instructions
 
 To access this level you will need to either have Counter-Strike: Global Offensive or Counter-Strike:Global Offensive - SDK. Both of these are free and available on Steam.
 
